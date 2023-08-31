@@ -7,7 +7,7 @@ What is the purpose of the aquasecurity/trivy-action in the GitHub Actions CI wo
 What are the optional parameters that can be used with the Checkov action?
 How can Infracost be integrated into the infrastructure pipeline?
 How are application pipelines triggered?
-What is the topic of the second part in the series?
+Give me a summary of DevOps Self-Service Pipeline Architecture and Its 3–2–1 Rule.
 What command is used to generate the Infracost report in HTML format?
 How does Terraform enable the creation of reusable infrastructure?
 How can the GitHub Actions workflow be configured to dynamically select the backend configuration file based on the environment?
@@ -21,10 +21,10 @@ Can you provide a link to a website that provides information on creating Terraf
 What is the intended audience for these documents?
 What is the purpose of the "DevOps Self-Service -Centric GitHub Actions’ Workflow Orchestration" article?
 What is the purpose of the "--soft-fail" flag in the TFSec step of the workflow?
-What is the topic of the document?
+Give me a summary of DevOps self-service-centric pipeline security and guardrails.
 What command is used to initialize Terraform with a specific backend configuration file?
 What information can Trivy find during a scan?
 What CLI configuration files should be ignored?
 What is the purpose of Terraform as an Infrastructure as Code (IaC) tool?
 What is SonarScan and what does it analyze in source code?
-What are the three samples mentioned in the document?
+Give me a summary of DevOps Self-Service Centric Terraform Project Structure.
